@@ -1,0 +1,18 @@
+clase Alumno {
+	FUNCION suma (ENT a, ENT b) -> ENT {
+		ENT c:
+		c -> a .+ b:
+		RETORNAR c:
+	}
+}
+procedimiento resta (ENT op1, ENT op2){
+	ENT resultado -> op1.-op2:
+	imprimir(resultado):
+}
+FUNCION PRINCIPAL () -> ENT {
+	Alumno miAlumno -> nuevo Carro:
+	ENT numero1:
+	cad respuesta:
+	log numero1:
+	REAL num:
+}
